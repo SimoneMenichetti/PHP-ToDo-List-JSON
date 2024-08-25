@@ -13,11 +13,12 @@ h1 {
     font-size: 3em;
     margin-bottom: 20px;
     text-align: center;
+    color: lightgray;
 }
 
 /* generali container todo list */
 .todo-container {
-    background-color: #1c2541;
+    background-color: #ffffff;
     padding: 20px;
     border-radius: 10px;
     width: 300px;
@@ -30,8 +31,8 @@ ul {
 }
 
 li {
-    background-color: #3a506b;
-    margin-bottom: 10px;
+    background-color:lightgray;
+    margin-bottom: 2px;
     padding: 10px;
     border-radius: 5px;
     display: flex;
